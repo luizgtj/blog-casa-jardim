@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Comece sua jornada na jardinagem com plantas que sobrevivem a qualquer erro. Lista testada com iniciantes reais."
 category: "Plantas"
 author: "João Mendes"
-image: "/images/plantas-iniciantes.jpg"
+image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&h=450&fit=crop&q=80"
 tags: ["iniciantes", "plantas faceis", "apto", "low maintenance"]
 faq:
   - question: "Qual a planta mais fácil para quem nunca cuidou de nada?"

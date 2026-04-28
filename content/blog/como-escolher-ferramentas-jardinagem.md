@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Aprenda a escolher ferramentas de jardinagem que duram anos. Análise de materiais, marcas confiáveis e dicas para iniciantes."
 category: "Ferramentas"
 author: "João Mendes"
-image: "/images/ferramentas-jardinagem.jpg"
+image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&h=450&fit=crop&q=80"
 tags: ["ferramentas", "iniciantes", "guia", "compras"]
 faq:
   - question: "Qual a ferramenta mais importante para começar?"

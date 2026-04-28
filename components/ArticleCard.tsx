@@ -17,10 +17,19 @@ export default function ArticleCard({ post }: ArticleCardProps) {
       </div>
 
       {/* Featured Image */}
-      <div className="relative h-48 w-full bg-gradient-to-br from-emerald-50 to-green-50">
-        <div className="absolute inset-0 flex items-center justify-center">
-          <div className="h-24 w-24 rounded-full bg-gradient-to-br from-emerald-200 to-green-200 opacity-50"></div>
-        </div>
+      <div className="relative h-48 w-full overflow-hidden bg-gray-100">
+        {post.image ? (
+          <img
+            src={post.image}
+            alt={post.title}
+            className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+            loading="lazy"
+          />
+        ) : (
+          <div className="flex h-full items-center justify-center bg-gradient-to-br from-emerald-50 to-green-50">
+            <div className="h-24 w-24 rounded-full bg-gradient-to-br from-emerald-200 to-green-200 opacity-50"></div>
+          </div>
+        )}
       </div>
 
       {/* Content */}
