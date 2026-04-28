@@ -15,7 +15,7 @@ faq:
     answer: "Ideal: 2-4 semanas. Isso dá tempo para correções (calcário, matéria orgânica) se integrarem ao solo."
 ---
 
-Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funciona. Já perdi incontáveis mudas por erro no solo. Neste guia, ensino o método que desenvolvi em anos de tentativa e erro.
+Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funciona. Já perdi incontáveis mudas por erro no solo. É o método que uso hoje depois de muito erro caro.
 
 ## Por Que Preparar Solo Importa (Muito)
 
@@ -139,7 +139,7 @@ Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funcio
 - Análise completa do solo (opcional)
 - Renovação da cobertura morta
 
-## Conclusão: Invista Tempo no Solo, Não nas Plantas
+## O que mudou pra mim
 
 Minha maior lição em anos:
 
@@ -152,3 +152,7 @@ O solo é 80% do sucesso. Os outros 20% são:
 3. Proteção contra pragas
 
 **Próximo passo:** Depois de ter solo pronto, aprenda [como montar sistema de irrigação caseiro](/blog/irrigacao-caseira-simples).
+## Leia também
+
+- [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70
+- [Como Escolher Ferramentas](/blog/como-escolher-ferramentas-jardinagem) — Guia de compras sem erro

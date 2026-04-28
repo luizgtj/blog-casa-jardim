@@ -17,7 +17,7 @@ faq:
 
 Em 2020, quase perdi 30 pés de tomate para pulgões. Usei veneno, matei as pragas e também os polinizadores. Sem abelhas, sem tomates. Foi quando descobri controle natural.
 
-Neste guia, ensino 7 métodos testados em escala real. Todos usam ingredientes que você já tem.
+Ao longo dos anos testei de tudo: veneno, receita da internet, café borrido. O que realmente funciona está aqui embaixo.
 
 ## Por Que Natural É Melhor
 
@@ -255,7 +255,7 @@ Neste guia, ensino 7 métodos testados em escala real. Todos usam ingredientes q
 - **Renove** solo superficial
 - **Avalie** eficácia das soluções
 
-## Conclusão: Natural Requer Persistência
+## O que eu aprendi
 
 Minha maior lição: controle natural não é preguiçoso. Exige:
 - **Observação** diária
@@ -271,3 +271,7 @@ Mas os benefícios valem:
 **Comece com:** Sabão de potássio (R$2) + observação diária.
 
 **Próximo:** Aprenda [como fazer compostagem doméstica](/blog/compostagem-domestica) para plantas ainda mais resistentes.
+## Leia também
+
+- [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70
+- [Como Escolher Ferramentas](/blog/como-escolher-ferramentas-jardinagem) — Guia de compras sem erro

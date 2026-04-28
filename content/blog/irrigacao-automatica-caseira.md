@@ -202,3 +202,7 @@ O sistema paga sozinho em menos de 1 ano. Depois disso, é lucro líquido + qual
 **Próximo projeto:** Compostagem caseira em apartamento (sem cheiro, sem espaço).
 
 *Luiz Henrique testa sistemas DIY há anos. Já economizou R$ 14.200 fazendo em vez de comprando. Seu lema: "Se não precisa ser perfeito, precisa ser funcional."*
+## Leia também
+
+- [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70
+- [Como Escolher Ferramentas](/blog/como-escolher-ferramentas-jardinagem) — Guia de compras sem erro

@@ -17,7 +17,7 @@ faq:
 
 Escolher ferramentas de jardinagem parece simples, mas é uma decisão que impacta anos de trabalho. Comprei dezenas de ferramentas, algumas viraram sucata em meses, outras estão comigo há anos.
 
-Neste guia, vou te mostrar como escolher como um profissional, mesmo sendo iniciante.
+Depois de testar dezenas de ferramentas ao longo dos anos, sei exatamente quais valem o dinheiro e quais são engodo.
 
 ## Por Que a Escolha das Ferramentas Importa
 
@@ -142,7 +142,7 @@ Ferramentas boas:
 2. Retifique ferramentas enferrujadas
 3. Organize e descarte o que não serve
 
-## Conclusão: Invista em Qualidade, Não Quantidade
+## Minha recomendação final
 
 Minha recomendação pessoal após anos:
 
@@ -154,3 +154,7 @@ Minha recomendação pessoal após anos:
 Lembre-se: boas ferramentas não são gasto, são investimento. Uma pá de R$150 que dura 20 anos custa R$7,50 por ano. Uma pá de R$30 que dura 1 ano custa R$30 por ano.
 
 **Próximo passo:** Depois de ter suas ferramentas, aprenda [como preparar o solo para plantar](/blog/como-preparar-solo-plantio).
+## Leia também
+
+- [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo ruim = planta ruim
+- [10 Plantas para Iniciantes](/blog/plantas-iniciantes-imortais) — Quase impossível matar

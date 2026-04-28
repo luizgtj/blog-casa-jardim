@@ -17,7 +17,8 @@ faq:
 
 # Ferramentas Essenciais para Jardinagem: Guia do Iniciante 2026
 
-Começar na jardinagem pode parecer intimidante, mas com as ferramentas certas, você transforma esse hobby em uma atividade prazerosa e produtiva. Neste guia completo, vou mostrar as **10 ferramentas essenciais** que todo jardineiro iniciante precisa ter, baseado na minha experiência de 15 anos cuidando de jardins.
+Começar na jardinagem pode parecer intimidante, mas com as ferramentas certas, você transforma esse hobby em uma atividade prazerosa e produtiva. 
+Aqui vão as **10 ferramentas essenciais** que todo jardineiro iniciante precisa ter, baseado na minha experiência de 15 anos cuidando de jardins.
 
 ## 1. Pá de Jardim (A Ferramenta Mais Versátil)
 
@@ -147,3 +148,7 @@ Lembre-se: **O melhor jardineiro não é quem tem mais ferramentas, mas quem sab
 ---
 
 *Carlos Mendes é jardineiro profissional há 15 anos e autor do blog "Casa & Jardim Ferramentas". Já ajudou mais de 2.000 famílias a criar seus primeiros jardins.*
+## Leia também
+
+- [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70
+- [Como Escolher Ferramentas](/blog/como-escolher-ferramentas-jardinagem) — Guia de compras sem erro

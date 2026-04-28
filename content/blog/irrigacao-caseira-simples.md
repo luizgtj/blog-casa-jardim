@@ -17,7 +17,7 @@ faq:
 
 Regar plantas manualmente todo dia é chato e ineficiente. Em 2019, perdi uma horta inteira durante viagem. Desde então, desenvolvi sistemas caseiros que qualquer um monta.
 
-Neste guia, ensino 3 níveis de complexidade, do mais simples ao automático.
+Montei três opções: da mais simples (balde furado) até automático digital. Qualquer uma funciona.
 
 ## Por Que Irrigação Automática Vale a Pena
 
@@ -141,10 +141,14 @@ Neste guia, ensino 3 níveis de complexidade, do mais simples ao automático.
 **Plantas antes:** Crescimento irregular, mortes por esquecimento  
 **Plantas depois:** Crescimento 30% mais rápido, zero mortes
 
-## Conclusão: Automatize Já
+## Vale a pena? Sim.
 
 Não precisa ser perfeito. Meu primeiro sistema era um balde furado com mangueira de aquário. Funcionou.
 
 **Passo mais importante:** Começar. Monte o sistema #1 este fim de semana.
 
 **Próximo:** Depois de ter irrigação, aprenda [como fazer compostagem caseira](/blog/compostagem-domestica).
+## Leia também
+
+- [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo ruim = planta ruim
+- [10 Plantas para Iniciantes](/blog/plantas-iniciantes-imortais) — Quase impossível matar

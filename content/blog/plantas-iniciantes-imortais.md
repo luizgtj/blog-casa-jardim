@@ -150,7 +150,7 @@ Esta lista é resultado de testes com 37 iniciantes reais. Todas sobrevivem a:
 - **Folhas murchas** = falta de água  
 - **Crescimento alongado** = pouca luz
 
-## Conclusão: Comece Simples
+## Minha dica honesta
 
 Minha jornada de matador de plantas para jardineiro começou com uma Espada-de-São-Jorge que comprei por pena (tava quase morta na loja). Um ano depois, ela tinha triplicado de tamanho.
 
@@ -162,3 +162,7 @@ Minha jornada de matador de plantas para jardineiro começou com uma Espada-de-S
 - Motivação (crescimento visível)
 
 **Próximo:** Depois de dominar estas, aprenda [como preparar solo perfeito](/blog/preparar-solo-plantio).
+## Leia também
+
+- [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70
+- [Como Escolher Ferramentas](/blog/como-escolher-ferramentas-jardinagem) — Guia de compras sem erro
