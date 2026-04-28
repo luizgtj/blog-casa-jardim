@@ -1,7 +1,7 @@
 import { getPostBySlug, getAllPosts } from '@/lib/posts'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
-import GSAPScrollReveal from '@/components/GSAPScrollReveal'
+import Link from 'next/link'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!post) return {}
   
   return {
-    title: post.title,
+    title: `${post.title} | Jardim Inteligente`,
     description: post.description,
     openGraph: {
       title: post.title,
@@ -38,87 +38,118 @@ export default async function BlogPost({ params }: Props) {
   if (!post) notFound()
   
   return (
-    <article className="max-w-4xl mx-auto px-4 py-12">
-      {/* Hero Section */}
-      <header className="mb-12">
-        <GSAPScrollReveal>
-          <div className="flex items-center gap-2 text-sm text-gray-600 mb-4">
-            <span>{post.category}</span>
-            <span>•</span>
-            <time dateTime={post.date}>{post.date}</time>
+    <div className="bg-white">
+      {/* Breadcrumb */}
+      <div className="mx-auto max-w-3xl px-4 pt-8">
+        <nav className="text-sm text-gray-500">
+          <Link href="/" className="hover:text-emerald-600">Home</Link>
+          <span className="mx-2">/</span>
+          <Link href="/blog" className="hover:text-emerald-600">Blog</Link>
+          <span className="mx-2">/</span>
+          <span className="text-gray-900">{post.category}</span>
+        </nav>
+      </div>
+
+      <article className="mx-auto max-w-3xl px-4 py-10">
+        {/* Header */}
+        <header className="mb-10">
+          <div className="mb-4">
+            <span className="inline-block rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold text-emerald-800">
+              {post.category}
+            </span>
           </div>
           
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <h1 className="text-3xl md:text-4xl font-bold leading-tight text-gray-900 mb-4">
             {post.title}
           </h1>
           
-          <p className="text-xl text-gray-600 mb-8">
+          <p className="text-lg text-gray-600 mb-6 leading-relaxed">
             {post.description}
           </p>
-          
-          <div className="flex items-center gap-4">
-            <div className="w-12 h-12 bg-gray-200 rounded-full"></div>
+
+          <div className="flex items-center gap-3 border-b border-gray-200 pb-6">
+            <img 
+              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop&crop=face" 
+              alt="Luiz Henrique" 
+              className="h-10 w-10 rounded-full object-cover"
+            />
             <div>
-              <div className="font-medium">{post.author}</div>
-              <div className="text-sm text-gray-500">Especialista em {post.category}</div>
+              <p className="text-sm font-medium text-gray-900">Luiz Henrique</p>
+              <p className="text-xs text-gray-500">
+                <time dateTime={post.date}>{post.date}</time>
+              </p>
             </div>
           </div>
-        </GSAPScrollReveal>
-      </header>
-      
-      {/* Featured Image */}
-      {post.image && (
-        <GSAPScrollReveal>
-          <div className="mb-12">
+        </header>
+        
+        {/* Featured Image */}
+        {post.image && (
+          <figure className="mb-10">
             <img 
               src={post.image} 
               alt={post.title}
-              className="w-full h-auto rounded-2xl shadow-xl"
+              className="w-full rounded-xl shadow-md"
             />
-          </div>
-        </GSAPScrollReveal>
-      )}
-      
-      {/* Article Content */}
-      <div className="prose prose-lg max-w-none mb-12">
-        <div dangerouslySetInnerHTML={{ __html: post.content }} />
-      </div>
-      
-      {/* FAQ Section */}
-      {post.faq && post.faq.length > 0 && (
-        <GSAPScrollReveal>
-          <div className="bg-gray-50 rounded-2xl p-8 mb-12">
-            <h2 className="text-2xl font-bold mb-6">Perguntas Frequentes</h2>
-            <div className="space-y-4">
+          </figure>
+        )}
+        
+        {/* Article Content - Tipografia profissional */}
+        <div 
+          className="article-body"
+          dangerouslySetInnerHTML={{ __html: post.content }} 
+        />
+
+        {/* FAQ Section */}
+        {post.faq && post.faq.length > 0 && (
+          <section className="mt-12 border-t border-gray-200 pt-10">
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">Perguntas Frequentes</h2>
+            <div className="space-y-6">
               {post.faq.map((item, index) => (
-                <div key={index} className="border-b border-gray-200 pb-4">
-                  <h3 className="font-semibold text-lg mb-2">{item.question}</h3>
-                  <p className="text-gray-600">{item.answer}</p>
-                </div>
+                <details key={index} className="group rounded-lg border border-gray-200 p-4">
+                  <summary className="flex cursor-pointer items-center justify-between font-semibold text-gray-900">
+                    {item.question}
+                    <svg className="h-5 w-5 text-gray-400 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                    </svg>
+                  </summary>
+                  <p className="mt-3 text-gray-600 leading-relaxed">{item.answer}</p>
+                </details>
               ))}
             </div>
-          </div>
-        </GSAPScrollReveal>
-      )}
-      
-      {/* Author Bio */}
-      <GSAPScrollReveal>
-        <div className="bg-gradient-to-r from-emerald-50 to-green-50 rounded-2xl p-8 mt-12">
-          <div className="flex items-center gap-6">
+          </section>
+        )}
+        
+        {/* Author Bio */}
+        <div className="mt-12 border-t border-gray-200 pt-10">
+          <div className="flex items-center gap-4">
             <img 
               src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop&crop=face" 
               alt="Luiz Henrique" 
-              className="w-20 h-20 rounded-full object-cover ring-2 ring-emerald-200"
+              className="h-14 w-14 rounded-full object-cover ring-2 ring-emerald-100"
             />
             <div>
-              <h3 className="text-2xl font-bold mb-2">Luiz Henrique</h3>
-              <p className="text-gray-700 mb-4">
-                Escritor e entusiasta de jardinagem DIY. Compartilha guias práticos testados na prática, sem teoria vazia.
+              <p className="font-semibold text-gray-900">Luiz Henrique</p>
+              <p className="text-sm text-gray-600">
+                Escritor e entusiasta de jardinagem DIY. Guias práticos testados na prática.
               </p>
             </div>
           </div>
         </div>
-      </GSAPScrollReveal>
-    </article>
+
+        {/* Related Posts CTA */}
+        <div className="mt-12 border-t border-gray-200 pt-10 text-center">
+          <p className="text-gray-500 mb-4">Continue lendo</p>
+          <Link 
+            href="/blog"
+            className="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-6 py-3 text-sm font-semibold text-white hover:bg-emerald-700 transition-colors"
+          >
+            Ver todos os artigos
+            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
+            </svg>
+          </Link>
+        </div>
+      </article>
+    </div>
   )
 }
