@@ -31,11 +31,11 @@ export default function Footer() {
           {/* Links */}
           <div>
             <h3 className="text-sm font-semibold uppercase tracking-wider text-white">
-              Links
+              Jardim Inteligente
             </h3>
-            <ul className="mt-3 space-y-2">
-              <li><Link href="/" className="text-sm hover:text-emerald-400 transition-colors">Home</Link></li>
-            </ul>
+            <p className="mt-3 text-sm text-gray-400">
+              Conteúdo prático de jardinagem para quem está começando.
+            </p>
           </div>
         </div>
 

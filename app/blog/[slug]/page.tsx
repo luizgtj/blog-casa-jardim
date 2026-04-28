@@ -120,7 +120,7 @@ export default async function BlogPost({ params }: Props) {
           <div className="flex items-center gap-3 border-b border-gray-200 pb-6">
             <img 
               src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop&crop=face" 
-              alt="Luiz Henrique" 
+              alt="Foto de Luiz Henrique, autor do blog Jardim Inteligente" 
               className="h-10 w-10 rounded-full object-cover"
             />
             <div>
