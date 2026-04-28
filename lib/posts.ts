@@ -16,6 +16,7 @@ export interface Post {
   content: string
   faq?: Array<{ question: string; answer: string }>
   tags?: string[]
+  readingTime?: string
 }
 
 export function getAllPosts(): Post[] {
@@ -46,6 +47,10 @@ export function getPostBySlug(slug: string): Post | null {
     const contentWithoutH1 = contentHtml.replace(/<h1>.*?<\/h1>/g, '')
     
     // Combine the data with the slug
+    // Calculate reading time (avg 200 words/min in Portuguese)
+    const wordCount = matterResult.content.split(/\s+/).length
+    const readingTime = Math.max(1, Math.ceil(wordCount / 200))
+
     return {
       slug,
       content: contentWithoutH1,
@@ -57,6 +62,7 @@ export function getPostBySlug(slug: string): Post | null {
       image: matterResult.data.image,
       faq: matterResult.data.faq || [],
       tags: matterResult.data.tags || [],
+      readingTime: `${readingTime} min de leitura`,
     }
   } catch (error) {
     console.error(`Error reading post ${slug}:`, error)
