@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter, Georgia } from 'next/font/google'
+import { Inter, Roboto_Slab } from 'next/font/google'
 import './globals.css'
 import Header from '@/components/Header'
 import CategoriesBar from '@/components/CategoriesBar'
@@ -11,10 +11,9 @@ const inter = Inter({
   display: 'swap',
 })
 
-const georgia = Georgia({
-  weight: ['400', '700'],
+const robotoSlab = Roboto_Slab({
   subsets: ['latin'],
-  variable: '--font-georgia',
+  variable: '--font-roboto-slab',
   display: 'swap',
 })
 
@@ -64,11 +63,13 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="pt-BR" className={`${inter.variable} ${georgia.variable}`}>
+    <html lang="pt-BR" className={`${inter.variable} ${robotoSlab.variable}`}>
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#10b981" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className="min-h-screen bg-white text-gray-900 antialiased">
         <div className="flex min-h-screen flex-col">
