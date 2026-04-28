@@ -18,15 +18,13 @@ export interface Post {
   tags?: string[]
 }
 
-export async function getAllPosts(): Promise<Post[]> {
+export function getAllPosts(): Post[] {
   const fileNames = fs.readdirSync(postsDirectory)
   
-  const allPostsData = await Promise.all(
-    fileNames.map(async (fileName) => {
-      const slug = fileName.replace(/\.md$/, '')
-      return await getPostBySlug(slug)
-    })
-  )
+  const allPostsData = fileNames.map((fileName) => {
+    const slug = fileName.replace(/\.md$/, '')
+    return getPostBySlug(slug)
+  })
   
   // Sort posts by date
   return allPostsData
@@ -34,7 +32,7 @@ export async function getAllPosts(): Promise<Post[]> {
     .sort((a, b) => (a.date < b.date ? 1 : -1))
 }
 
-export async function getPostBySlug(slug: string): Promise<Post | null> {
+export function getPostBySlug(slug: string): Post | null {
   try {
     const fullPath = path.join(postsDirectory, `${slug}.md`)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
@@ -42,8 +40,8 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents)
     
-    // Convert markdown to HTML using marked
-    const contentHtml = marked.parse(matterResult.content)
+    // Convert markdown to HTML using marked sync version
+    const contentHtml = marked.parse(matterResult.content, { async: false }) as string
     
     // Combine the data with the slug
     return {
@@ -64,10 +62,8 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
   }
 }
 
-export function getPostsByCategory(category: string): Promise<Post[]> {
-  return getAllPosts().then(posts => 
-    posts.filter(post => post.category === category)
-  )
+export function getPostsByCategory(category: string): Post[] {
+  return getAllPosts().filter(post => post.category === category)
 }
 
 export function getCategories(): string[] {
