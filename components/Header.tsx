@@ -6,13 +6,10 @@ import { useState } from 'react'
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
+  // Menu simplificado - categorias ficam na CategoriesBar, não aqui
   const navItems = [
     { label: 'Home', href: '/' },
     { label: 'Blog', href: '/blog' },
-    { label: 'Ferramentas', href: '/categorias/ferramentas' },
-    { label: 'Irrigação', href: '/categorias/irrigacao' },
-    { label: 'Plantas', href: '/categorias/plantas' },
-    { label: 'DIY', href: '/categorias/diy' },
     { label: 'Sobre', href: '/sobre' },
   ]
 
@@ -20,7 +17,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full border-b border-gray-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
-          {/* Logo */}
+          {/* Logo - versão clara (fundo branco) */}
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <img src="/logo.svg" alt="Jardim Inteligente" className="h-10 w-auto" />
@@ -50,9 +47,6 @@ export default function Header() {
                 </svg>
               </button>
             </div>
-            <button className="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700 transition-colors">
-              Newsletter
-            </button>
           </nav>
 
           {/* Mobile menu button */}
@@ -88,9 +82,6 @@ export default function Header() {
                 {item.label}
               </Link>
             ))}
-            <button className="w-full mt-2 rounded-lg bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700 transition-colors">
-              Newsletter
-            </button>
           </div>
         </div>
       )}

@@ -30,7 +30,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <img src="/logo.svg" alt="Jardim Inteligente" className="h-12 w-auto" />
+              <img src="/logo-dark.svg" alt="Jardim Inteligente" className="h-12 w-auto" />
             </div>
             <p className="text-sm">
               Guias práticos de jardinagem DIY. Tudo testado, nada de teoria.

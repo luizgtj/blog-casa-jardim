@@ -3,7 +3,7 @@ title: "Irrigação Automática Caseira: Monte o Seu Sistema por Menos de R$ 200
 date: "2026-04-28"
 description: "Guia completo passo a passo para montar um sistema de irrigação automática profissional usando materiais de ferragem. Economize água e tempo."
 category: "Casa & Jardim"
-author: "João Mendes"
+author: "Luiz Henrique"
 image: "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?w=800&h=450&fit=crop&q=80"
 tags: ["irrigação", "automação", "diy", "economia", "jardinagem"]
 faq:
@@ -201,4 +201,4 @@ O sistema paga sozinho em menos de 1 ano. Depois disso, é lucro líquido + qual
 
 **Próximo projeto:** Compostagem caseira em apartamento (sem cheiro, sem espaço).
 
-*João Mendes testa sistemas DIY há 8 anos. Já economizou R$ 14.200 fazendo em vez de comprando. Seu lema: "Se não precisa ser perfeito, precisa ser funcional."*
+*Luiz Henrique testa sistemas DIY há anos. Já economizou R$ 14.200 fazendo em vez de comprando. Seu lema: "Se não precisa ser perfeito, precisa ser funcional."*

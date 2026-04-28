@@ -3,7 +3,7 @@ title: "Como Preparar Solo para Plantio: Guia Passo a Passo"
 date: "2026-04-28"
 description: "Aprenda a preparar solo perfeito para plantas. Teste de pH, correção de nutrientes e dicas para solo arenoso/argiloso."
 category: "Plantas"
-author: "João Mendes"
+author: "Luiz Henrique"
 image: "https://images.unsplash.com/photo-1592419044706-39796d40f98c?w=800&h=450&fit=crop&q=80"
 tags: ["solo", "plantio", "iniciantes", "horta", "preparação"]
 faq:
@@ -15,7 +15,7 @@ faq:
     answer: "Ideal: 2-4 semanas. Isso dá tempo para correções (calcário, matéria orgânica) se integrarem ao solo."
 ---
 
-Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funciona. Já perdi incontáveis mudas por erro no solo. Neste guia, ensino o método que desenvolvi em 8 anos de tentativa e erro.
+Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funciona. Já perdi incontáveis mudas por erro no solo. Neste guia, ensino o método que desenvolvi em anos de tentativa e erro.
 
 ## Por Que Preparar Solo Importa (Muito)
 
@@ -141,7 +141,7 @@ Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funcio
 
 ## Conclusão: Invista Tempo no Solo, Não nas Plantas
 
-Minha maior lição em 8 anos:
+Minha maior lição em anos:
 
 **Planta cara + solo ruim = dinheiro jogado fora**  
 **Planta barata + solo bom = jardim exuberante**

@@ -3,7 +3,7 @@ title: "Como Escolher as Ferramentas Certas de Jardinagem: Guia Completo"
 date: "2026-04-28"
 description: "Aprenda a escolher ferramentas de jardinagem que duram anos. Análise de materiais, marcas confiáveis e dicas para iniciantes."
 category: "Ferramentas"
-author: "João Mendes"
+author: "Luiz Henrique"
 image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&h=450&fit=crop&q=80"
 tags: ["ferramentas", "iniciantes", "guia", "compras"]
 faq:
@@ -15,7 +15,7 @@ faq:
     answer: "Um kit básico com 5-7 peças: luvas, pá de mão, tesoura de poda, ancinho pequeno, regador, garfo de jardinagem e carrinho de mão."
 ---
 
-Escolher ferramentas de jardinagem parece simples, mas é uma decisão que impacta anos de trabalho. Comprei dezenas de ferramentas, algumas viraram sucata em meses, outras estão comigo há 8 anos.
+Escolher ferramentas de jardinagem parece simples, mas é uma decisão que impacta anos de trabalho. Comprei dezenas de ferramentas, algumas viraram sucata em meses, outras estão comigo há anos.
 
 Neste guia, vou te mostrar como escolher como um profissional, mesmo sendo iniciante.
 
@@ -144,7 +144,7 @@ Ferramentas boas:
 
 ## Conclusão: Invista em Qualidade, Não Quantidade
 
-Minha recomendação pessoal após 8 anos:
+Minha recomendação pessoal após anos:
 
 1. **Comece com 5 peças** de qualidade, não 15 ruins
 2. **Invista R$300-500** num kit que dura 10+ anos

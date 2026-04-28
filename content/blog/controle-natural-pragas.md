@@ -3,7 +3,7 @@ title: "Controle Natural de Pragas: 7 Soluções Caseiras que Funcionam"
 date: "2026-04-28"
 description: "Elimine pulgões, cochonilhas e ácaros sem agrotóxicos. Receitas testadas com ingredientes da sua cozinha."
 category: "Plantas"
-author: "João Mendes"
+author: "Luiz Henrique"
 image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=800&h=450&fit=crop&q=80"
 tags: ["pragas", "natural", "caseiro", "horta organica", "inseticida"]
 faq:

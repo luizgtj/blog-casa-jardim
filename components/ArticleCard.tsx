@@ -58,10 +58,14 @@ export default function ArticleCard({ post }: ArticleCardProps) {
         {/* Author & CTA */}
         <div className="mt-6 flex items-center justify-between">
           <div className="flex items-center">
-            <div className="h-8 w-8 rounded-full bg-gradient-to-br from-emerald-400 to-green-500"></div>
+            <img 
+              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=60&h=60&fit=crop&crop=face" 
+              alt="Luiz Henrique" 
+              className="h-8 w-8 rounded-full object-cover"
+            />
             <div className="ml-3">
-              <p className="text-sm font-medium text-gray-900">{post.author}</p>
-              <p className="text-xs text-gray-500">Especialista em {post.category}</p>
+              <p className="text-sm font-medium text-gray-900">Luiz Henrique</p>
+              <p className="text-xs text-gray-500">Jardinagem DIY</p>
             </div>
           </div>
 

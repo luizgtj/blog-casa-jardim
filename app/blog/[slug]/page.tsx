@@ -103,20 +103,18 @@ export default async function BlogPost({ params }: Props) {
       
       {/* Author Bio */}
       <GSAPScrollReveal>
-        <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-2xl p-8 mt-12">
+        <div className="bg-gradient-to-r from-emerald-50 to-green-50 rounded-2xl p-8 mt-12">
           <div className="flex items-center gap-6">
-            <div className="w-20 h-20 bg-gray-300 rounded-full"></div>
+            <img 
+              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop&crop=face" 
+              alt="Luiz Henrique" 
+              className="w-20 h-20 rounded-full object-cover ring-2 ring-emerald-200"
+            />
             <div>
-              <h3 className="text-2xl font-bold mb-2">Sobre o Autor</h3>
+              <h3 className="text-2xl font-bold mb-2">Luiz Henrique</h3>
               <p className="text-gray-700 mb-4">
-                {post.author} é especialista em {post.category} com mais de 10 anos de experiência. 
-                Já ajudou milhares de pessoas através de seus artigos e guias práticos.
+                Escritor e entusiasta de jardinagem DIY. Compartilha guias práticos testados na prática, sem teoria vazia.
               </p>
-              <div className="flex gap-4">
-                <a href="#" className="text-blue-600 hover:text-blue-800">Website</a>
-                <a href="#" className="text-blue-600 hover:text-blue-800">Twitter</a>
-                <a href="#" className="text-blue-600 hover:text-blue-800">LinkedIn</a>
-              </div>
             </div>
           </div>
         </div>

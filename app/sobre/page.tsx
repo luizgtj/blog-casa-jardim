@@ -131,7 +131,7 @@ export default function SobrePage() {
                   JM
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-900 mb-2">João Mendes</h3>
+                  <h3 className="text-2xl font-bold text-gray-900 mb-2">Luiz Henrique</h3>
                   <div className="text-emerald-600 font-medium mb-3">Fundador & Testador Chefe</div>
                   <p className="text-gray-600 mb-4">
                     Ex-engenheiro que trocou a calculadora pela pá. Especialista em fazer muito com pouco. 

@@ -3,15 +3,12 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
+// Categorias que existem com conteúdo real
 const categories = [
-  { name: 'Ferramentas', slug: 'ferramentas', count: 12 },
-  { name: 'Irrigação', slug: 'irrigacao', count: 8 },
-  { name: 'Plantas', slug: 'plantas', count: 15 },
-  { name: 'DIY', slug: 'diy', count: 20 },
-  { name: 'Horta', slug: 'horta', count: 10 },
-  { name: 'Decoração', slug: 'decoracao', count: 7 },
-  { name: 'Manutenção', slug: 'manutencao', count: 9 },
-  { name: 'Economia', slug: 'economia', count: 5 },
+  { name: 'Ferramentas', slug: 'ferramentas' },
+  { name: 'Irrigação', slug: 'irrigacao' },
+  { name: 'Plantas', slug: 'plantas' },
+  { name: 'DIY', slug: 'diy' },
 ]
 
 export default function CategoriesBar() {
@@ -26,7 +23,7 @@ export default function CategoriesBar() {
             {categories.map((category) => (
               <Link
                 key={category.slug}
-                href={`/categorias/${category.slug}`}
+                href={`/blog?categoria=${category.slug}`}
                 className={`inline-flex items-center rounded-full px-4 py-2 text-sm font-medium transition-colors ${
                   currentCategory === category.slug
                     ? 'bg-emerald-100 text-emerald-800 ring-1 ring-emerald-300'
@@ -34,17 +31,8 @@ export default function CategoriesBar() {
                 }`}
               >
                 {category.name}
-                <span className="ml-2 text-xs text-gray-500">({category.count})</span>
               </Link>
             ))}
-          </div>
-          <div className="ml-4 flex-shrink-0">
-            <Link
-              href="/categorias"
-              className="inline-flex items-center text-sm font-medium text-gray-600 hover:text-emerald-700"
-            >
-              Todas as categorias →
-            </Link>
           </div>
         </div>
       </div>
