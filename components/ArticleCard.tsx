@@ -37,7 +37,7 @@ export default function ArticleCard({ post }: ArticleCardProps) {
         <div className="flex-1">
           {/* Meta */}
           <div className="flex items-center gap-2 text-sm text-gray-500">
-            <time dateTime={post.date}>{post.date}</time>
+            <time dateTime={post.date}>{new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
             <span>•</span>
             <span>15 min de leitura</span>
           </div>

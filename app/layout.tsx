@@ -23,13 +23,13 @@ export const metadata: Metadata = {
   },
   description: 'Guias práticos de jardinagem DIY testados na prática. Aprenda a transformar seu jardim sem gastar fortunas.',
   keywords: ['jardinagem', 'DIY', 'ferramentas', 'horta', 'irrigação', 'plantas'],
-  authors: [{ name: 'João Mendes' }],
+  authors: [{ name: 'Luiz Henrique' }],
   creator: 'Jardim Inteligente',
   publisher: 'Jardim Inteligente',
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://jardiminteligente.com',
+    url: 'https://blog-casa-jardim-z6tt2.vercel.app',
     title: 'Jardim Inteligente - Guias Práticos de Jardinagem DIY',
     description: 'Guias práticos de jardinagem DIY testados na prática.',
     siteName: 'Jardim Inteligente',
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'google-site-verification-code',
+    google: '',
   },
 }
 
@@ -65,7 +65,6 @@ export default function RootLayout({
     <html lang="pt-BR" className={`${inter.variable} ${robotoSlab.variable}`}>
       <head>
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#10b981" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

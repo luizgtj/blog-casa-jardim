@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blog-casa-jardim-z6tt2.vercel.app/sitemap.xml
