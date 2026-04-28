@@ -65,7 +65,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR" className={`${inter.variable} ${robotoSlab.variable}`}>
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#10b981" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
