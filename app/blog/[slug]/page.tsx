@@ -20,6 +20,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: post.title,
       description: post.description,
       images: post.image ? [post.image] : [],
+      type: 'article',
+      publishedTime: post.date,
+      authors: ['Luiz Henrique'],
+      tags: post.tags,
+    },
+    alternates: {
+      canonical: `https://blog-casa-jardim-z6tt2.vercel.app/blog/${slug}`,
     },
   }
 }
@@ -39,6 +46,49 @@ export default async function BlogPost({ params }: Props) {
   
   return (
     <div className="bg-white">
+      {/* Schema.org JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Article',
+            headline: post.title,
+            description: post.description,
+            image: post.image,
+            datePublished: post.date,
+            author: {
+              '@type': 'Person',
+              name: 'Luiz Henrique',
+            },
+            publisher: {
+              '@type': 'Organization',
+              name: 'Jardim Inteligente',
+              logo: {
+                '@type': 'ImageObject',
+                url: 'https://blog-casa-jardim-z6tt2.vercel.app/logo.svg',
+              },
+            },
+            mainEntityOfPage: {
+              '@type': 'WebPage',
+              '@id': `https://blog-casa-jardim-z6tt2.vercel.app/blog/${slug}`,
+            },
+            ...(post.faq && post.faq.length > 0 ? {
+              hasPart: {
+                '@type': 'FAQPage',
+                mainEntity: post.faq.map((item: { question: string; answer: string }) => ({
+                  '@type': 'Question',
+                  name: item.question,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: item.answer,
+                  },
+                })),
+              },
+            } : {}),
+          }),
+        }}
+      />
       {/* Breadcrumb */}
       <div className="mx-auto max-w-3xl px-4 pt-8">
         <nav className="text-sm text-gray-500">
