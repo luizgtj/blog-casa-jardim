@@ -2,7 +2,6 @@ import { getPostBySlug, getAllPosts } from '@/lib/posts'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import GSAPScrollReveal from '@/components/GSAPScrollReveal'
-import AdZone from '@/components/AdZone'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -80,16 +79,10 @@ export default async function BlogPost({ params }: Props) {
         </GSAPScrollReveal>
       )}
       
-      {/* Ad Zone: Header */}
-      <AdZone position="header" />
-      
       {/* Article Content */}
       <div className="prose prose-lg max-w-none mb-12">
         <div dangerouslySetInnerHTML={{ __html: post.content }} />
       </div>
-      
-      {/* Ad Zone: In-article */}
-      <AdZone position="in-article" />
       
       {/* FAQ Section */}
       {post.faq && post.faq.length > 0 && (
@@ -107,9 +100,6 @@ export default async function BlogPost({ params }: Props) {
           </div>
         </GSAPScrollReveal>
       )}
-      
-      {/* Ad Zone: Footer */}
-      <AdZone position="footer" />
       
       {/* Author Bio */}
       <GSAPScrollReveal>
