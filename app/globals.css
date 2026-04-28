@@ -19,7 +19,7 @@
     font-kerning: normal;
   }
 
-  /* Typography scale - usando classes CSS puras */
+  /* Typography scale */
   h1 {
     font-weight: 700;
     letter-spacing: -0.025em;
@@ -50,56 +50,16 @@
     line-height: 1.4;
   }
 
-  /* Prose styles for article content */
-  .prose {
-    @apply max-w-none;
-  }
-
-  .prose-lg {
-    font-size: 1.125rem;
-    line-height: 1.75;
-  }
-
-  .prose :where(p):not(:where([class~="not-prose"] *)) {
-    margin-top: 1.5em;
-    margin-bottom: 1.5em;
-  }
-
-  .prose :where(h2):not(:where([class~="not-prose"] *)) {
-    margin-top: 2em;
-    margin-bottom: 0.75em;
-  }
-
-  .prose :where(h3):not(:where([class~="not-prose"] *)) {
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-  }
-
-  /* Custom scrollbar */
-  ::-webkit-scrollbar {
-    width: 10px;
-  }
-
-  ::-webkit-scrollbar-track {
-    @apply bg-gray-100;
-  }
-
-  ::-webkit-scrollbar-thumb {
-    @apply bg-gray-300 rounded-full;
-  }
-
-  ::-webkit-scrollbar-thumb:hover {
-    @apply bg-gray-400;
-  }
-
   /* Focus styles */
   :focus-visible {
-    @apply outline-none ring-2 ring-emerald-500 ring-offset-2;
+    outline: none;
+    box-shadow: 0 0 0 2px #10b981, 0 0 0 4px rgba(16, 185, 129, 0.1);
   }
 
   /* Selection */
   ::selection {
-    @apply bg-emerald-100 text-emerald-900;
+    background-color: #d1fae5;
+    color: #065f46;
   }
 }
 
@@ -119,32 +79,65 @@
     overflow: hidden;
   }
 
-  /* Card hover effects */
-  .card-hover {
-    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
-  }
-
   /* Button styles */
   .btn-primary {
-    @apply inline-flex items-center justify-center rounded-lg bg-emerald-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-emerald-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600 disabled:opacity-50 disabled:pointer-events-none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+    background-color: #10b981;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: white;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    transition: background-color 0.2s;
   }
 
-  .btn-secondary {
-    @apply inline-flex items-center justify-center rounded-lg bg-white px-4 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600;
+  .btn-primary:hover {
+    background-color: #059669;
   }
 
   /* Form styles */
   .input-primary {
-    @apply block w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 placeholder-gray-400 focus:border-emerald-500 focus:outline-none focus:ring-1 focus:ring-emerald-500 disabled:opacity-50;
+    display: block;
+    width: 100%;
+    border-radius: 0.5rem;
+    border: 1px solid #d1d5db;
+    background-color: white;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    color: #111827;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .input-primary:focus {
+    border-color: #10b981;
+    outline: none;
+    box-shadow: 0 0 0 1px #10b981;
   }
 
   /* Badge styles */
   .badge-primary {
-    @apply inline-flex items-center rounded-full bg-emerald-100 px-3 py-1 text-xs font-medium text-emerald-800;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 9999px;
+    background-color: #d1fae5;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #065f46;
   }
 
   .badge-secondary {
-    @apply inline-flex items-center rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 9999px;
+    background-color: #f3f4f6;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #4b5563;
   }
 }
 
