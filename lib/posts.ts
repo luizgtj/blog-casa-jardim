@@ -41,12 +41,14 @@ export function getPostBySlug(slug: string): Post | null {
     const matterResult = matter(fileContents)
     
     // Convert markdown to HTML using marked sync version
+    // Remove H1 from content (we already have it in the page header)
     const contentHtml = marked.parse(matterResult.content, { async: false }) as string
+    const contentWithoutH1 = contentHtml.replace(/<h1>.*?<\/h1>/g, '')
     
     // Combine the data with the slug
     return {
       slug,
-      content: contentHtml,
+      content: contentWithoutH1,
       title: matterResult.data.title || '',
       date: matterResult.data.date || '',
       description: matterResult.data.description || '',

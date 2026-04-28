@@ -32,9 +32,17 @@ body {
   font-size: 1.375rem;
   font-weight: 600;
   color: #111827;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   margin-bottom: 0.75rem;
   line-height: 1.4;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+/* Destacar seções com emojis ❌ ✅ */
+.article-body h3:has(.error),
+.article-body h3:first-child {
+  /* sem regra extra, só garante espaçamento */
 }
 
 .article-body h4 {
@@ -50,25 +58,59 @@ body {
   margin-bottom: 1.25rem;
 }
 
+/* Primeiro parágrafo após H2 - destaque */
+.article-body h2 + p {
+  font-size: 1.2rem;
+  color: #374151;
+}
+
+/* Parágrafos que começam com strong - destaque */
+.article-body p > strong:first-child {
+  color: #111827;
+}
+
 .article-body ul,
 .article-body ol {
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   padding-left: 1.5rem;
 }
 
 .article-body ul {
-  list-style-type: disc;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.article-body ul li {
+  position: relative;
+  padding-left: 1.25rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.article-body ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: #10b981;
+  font-weight: 700;
 }
 
 .article-body ol {
   list-style-type: decimal;
 }
 
-.article-body li {
-  margin-top: 0.375rem;
-  margin-bottom: 0.375rem;
+.article-body ol li {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
   line-height: 1.7;
+}
+
+/* Listas dentro de listas (sub-items) */
+.article-body li ul,
+.article-body li ol {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .article-body strong {
