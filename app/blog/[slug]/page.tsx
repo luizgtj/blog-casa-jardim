@@ -182,7 +182,7 @@ export default async function BlogPost({ params }: Props) {
             <div>
               <p className="font-semibold text-gray-900">Luiz Henrique</p>
               <p className="text-sm text-gray-600">
-                Escritor e entusiasta de jardinagem DIY. Guias práticos testados na prática.
+                Escreve sobre jardinagem DIY desde que comprou a primeira pá e matou todas as plantas. Hoje compartilha o que aprendeu (e os erros que cometeu) pra ajudar outros iniciantes.
               </p>
             </div>
           </div>
