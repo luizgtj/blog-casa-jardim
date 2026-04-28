@@ -1,8 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-// Simplified markdown parsing - will install unified later
-// For now, use basic HTML rendering
+import { marked } from 'marked'
 
 const postsDirectory = path.join(process.cwd(), 'content/blog')
 
@@ -43,8 +42,8 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents)
     
-    // For now, just pass markdown as HTML (will enhance later)
-    const contentHtml = matterResult.content.replace(/\n/g, '<br>')
+    // Convert markdown to HTML using marked
+    const contentHtml = marked.parse(matterResult.content)
     
     // Combine the data with the slug
     return {
