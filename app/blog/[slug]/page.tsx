@@ -123,7 +123,7 @@ export default async function BlogPost({ params }: Props) {
             <div>
               <p className="text-sm font-medium text-gray-900">Luiz Henrique</p>
               <p className="text-xs text-gray-500">
-                <time dateTime={post.date}>{new Date(post.date + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+                <time dateTime={post.date}>{new Date(post.date.split('T')[0] + 'T12:00:00').toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
                 <span className="mx-1">·</span>
                 {post.readingTime || '5 min de leitura'}
               </p>
