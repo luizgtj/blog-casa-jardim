@@ -2,16 +2,7 @@
 const nextConfig = {
   experimental: {},
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'images.pexels.com',
-      },
-    ],
+    // Imagens agora são locais (Pexels), não precisa de remote patterns
   },
 }
 

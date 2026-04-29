@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Aprenda a preparar solo perfeito para plantas. Teste de pH, correção de nutrientes e dicas para solo arenoso/argiloso."
 category: "Plantas"
 author: "Luiz Henrique"
-image: "https://images.unsplash.com/photo-1592419044706-39796d40f98c?w=800&h=450&fit=crop&q=80"
+image: "/images/articles/preparar-solo.jpg"
 tags: ["solo", "plantio", "iniciantes", "horta", "preparação"]
 faq:
   - question: "Como saber se meu solo é bom para plantar?"

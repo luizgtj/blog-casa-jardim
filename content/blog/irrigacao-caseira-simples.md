@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Monte sistema de irrigação automático caseiro com menos de R$100. Ideal para hortas, vasos e jardins pequenos."
 category: "Irrigação"
 author: "Luiz Henrique"
-image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?w=800&h=450&fit=crop&q=80"
+image: "/images/articles/irrigacao-caseira.jpg"
 tags: ["irrigação", "diy", "economia", "horta", "automático"]
 faq:
   - question: "Quanto custa montar sistema de irrigação caseiro?"

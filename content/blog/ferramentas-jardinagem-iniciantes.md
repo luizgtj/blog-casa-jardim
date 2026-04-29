@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Descubra as 10 ferramentas essenciais que todo jardineiro iniciante precisa ter. Guia completo com recomendações e dicas práticas."
 category: "Casa & Jardim"
 author: "Carlos Mendes"
-image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&h=450&fit=crop&q=80"
+image: "/images/articles/ferramentas-jardinagem.jpg"
 tags: ["jardinagem", "ferramentas", "iniciantes", "diy"]
 faq:
   - question: "Quanto preciso investir em ferramentas básicas?"
