@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Elimine pulgões, cochonilhas e ácaros sem agrotóxicos. Receitas testadas com ingredientes da sua cozinha."
 category: "Plantas"
 author: "Luiz Henrique"
-image: "/images/articles/controle-natural-pragas.svg"
+image: "/images/articles/controle-natural-pragas.jpg"
 excerpt: "Em 2020, quase perdi 30 pés de tomate para pulgões. Usei veneno, matei as pragas e também os polinizadores. Sem abelhas, sem tomates. Foi quando de"
 tags: ["pragas", "natural", "caseiro", "horta orgânica", "inseticida"]
 faq:

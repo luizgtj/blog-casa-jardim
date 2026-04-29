@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Aprenda a preparar solo perfeito para plantas. Teste de pH, correção de nutrientes e dicas para solo arenoso/argiloso."
 category: "Plantas"
 author: "Luiz Henrique"
-image: "/images/articles/preparar-solo-plantio.svg"
+image: "/images/articles/preparar-solo-plantio.jpg"
 excerpt: "Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funciona. Já perdi incontáveis mudas por erro no solo. É o método que us"
 tags: ["solo", "plantio", "iniciantes", "horta", "preparação"]
 faq:

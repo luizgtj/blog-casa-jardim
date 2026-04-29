@@ -2,7 +2,7 @@
 title: "Como Fazer Compostagem em Apartamento: Método Sem Odor Passo a Passo"
 description: "Guia completo para compostagem doméstica sem gerar cheiro ruim em apartamento. Técnicas comprovadas para transformar restos de comida em adubo orgânico."
 date: 2026-04-29
-image: "/images/articles/compostagem-apartamento-sem-odor.svg"
+image: "/images/articles/compostagem-apartamento-sem-odor.jpg"
 excerpt: "A ideia de ter compostagem em apartamento assusta muita gente. Cheiro ruim, insetos, trabalho excessivo – são mitos que afastam iniciantes. Mas é "
 category: "Compostagem"
 tags: ["compostagem", "apartamento", "sem odor", "adubo orgânico", "sustentabilidade", "lixo zero", "horta urbana", "método bokashi"]
