@@ -21,16 +21,9 @@ Depois de testar dezenas de ferramentas ao longo dos anos, sei exatamente quais 
 
 ## Por Que a Escolha das Ferramentas Importa
 
-Ferramentas ruins:
-- Desgastam rápido
-- Machucam suas mãos
-- Tornam o trabalho mais difícil
-- Fazem você gastar mais dinheiro
+Ferramenta ruim é dinheiro jogado fora. Você compra barato, usa três meses, quebra. Compra de novo. Em dois anos gastou mais do que uma ferramenta boa custaria. Sem falar que ferramenta ruim machuca a mão, cansa mais e faz qualquer tarefa parecer o dobro do trabalho.
 
-Ferramentas boas:
-- Duram décadas
-- Trabalham por você
-- Transformam jardinagem em prazer
+Ferramenta boa é o contrário: você compra uma vez, cuida, e ela te acompanha por anos. Uma pá de aço inox que comprei em 2019 tá inteira até hoje. A pá de plástico que comprei antes não durou nem 6 meses.
 
 ## Materiais: O Que Evitar e O Que Escolher
 
