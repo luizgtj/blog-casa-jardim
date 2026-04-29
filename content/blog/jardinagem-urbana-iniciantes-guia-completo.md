@@ -2,6 +2,7 @@
 title: "Jardinagem Urbana para Iniciantes: Guia Completo do Zero"
 description: "Aprenda tudo sobre jardinagem urbana desde a primeira planta até horta produtiva em apartamento. Guia passo a passo com técnicas comprovadas para espaços limitados."
 date: 2026-04-29
+image: "/images/articles/plantas-iniciantes.jpg"
 category: "Guias Completos"
 tags: ["jardinagem urbana", "iniciantes", "horta em apartamento", "guia completo", "jardinagem", "urbana", "plantas", "vasos", "solo", "irrigação"]
 author: "Jardim Inteligente"

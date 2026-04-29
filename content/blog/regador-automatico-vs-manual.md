@@ -2,6 +2,7 @@
 title: "Regador Automático vs Manual: Qual Compensa para Horta em Apartamento?"
 description: "Análise comparativa detalhada entre regador automático e manual para horta urbana. Custos, benefícios, e qual escolher conforme seu estilo de vida e plantas."
 date: 2026-04-29
+image: "/images/articles/irrigacao.jpg"
 category: "Ferramentas e Equipamentos"
 tags: ["regador automático", "regador manual", "irrigação", "horta em apartamento", "comparativo", "ferramentas jardinagem", "automação"]
 author: "Jardim Inteligente"
