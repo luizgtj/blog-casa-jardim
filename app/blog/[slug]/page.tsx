@@ -2,6 +2,7 @@ import { getPostBySlug, getAllPosts } from '@/lib/posts'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
 import Link from 'next/link'
+import RelatedSection from '@/components/RelatedSection'
 
 type Props = {
   params: Promise<{ slug: string }>
@@ -189,7 +190,7 @@ export default async function BlogPost({ params }: Props) {
         </div>
 
         {/* Related Posts */}
-        <RelatedPosts currentSlug={slug} />
+        <RelatedSection currentSlug={slug} currentCategory={post.category} />
       </article>
     </div>
   )
