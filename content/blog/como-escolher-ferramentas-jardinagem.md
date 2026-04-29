@@ -153,7 +153,7 @@ Minha recomendação pessoal após anos:
 
 Lembre-se: boas ferramentas não são gasto, são investimento. Uma pá de R$150 que dura 20 anos custa R$7,50 por ano. Uma pá de R$30 que dura 1 ano custa R$30 por ano.
 
-**Próximo passo:** Depois de ter suas ferramentas, aprenda [como preparar o solo para plantar](/blog/como-preparar-solo-plantio).
+Leia também: Depois de ter suas ferramentas, aprenda [como preparar o solo para plantar](/blog/como-preparar-solo-plantio).
 ## Leia também
 
 - [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo ruim = planta ruim

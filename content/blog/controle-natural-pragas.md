@@ -5,7 +5,7 @@ description: "Elimine pulgões, cochonilhas e ácaros sem agrotóxicos. Receitas
 category: "Plantas"
 author: "Luiz Henrique"
 image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=800&h=450&fit=crop&q=80"
-tags: ["pragas", "natural", "caseiro", "horta organica", "inseticida"]
+tags: ["pragas", "natural", "caseiro", "horta orgânica", "inseticida"]
 faq:
   - question: "É possível controlar pragas sem veneno?"
     answer: "Sim! A maioria das pragas domésticas (pulgão, cochonilha, ácaro) responde bem a soluções naturais. Só pragas muito severas (lagarta, besouro) podem precisar de intervenção química."
@@ -17,7 +17,7 @@ faq:
 
 Em 2020, quase perdi 30 pés de tomate para pulgões. Usei veneno, matei as pragas e também os polinizadores. Sem abelhas, sem tomates. Foi quando descobri controle natural.
 
-Ao longo dos anos testei de tudo: veneno, receita da internet, café borrido. O que realmente funciona está aqui embaixo.
+Ao longo dos anos testei de tudo: veneno, receita da internet, café borrado. O que realmente funciona está aqui embaixo.
 
 ## Por Que Natural É Melhor
 
@@ -270,7 +270,7 @@ Mas os benefícios valem:
 
 **Comece com:** Sabão de potássio (R$2) + observação diária.
 
-**Próximo:** Aprenda [como fazer compostagem doméstica](/blog/compostagem-domestica) para plantas ainda mais resistentes.
+Leia também: Aprenda [como fazer compostagem doméstica](/blog/compostagem-domestica) para plantas ainda mais resistentes.
 ## Leia também
 
 - [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70

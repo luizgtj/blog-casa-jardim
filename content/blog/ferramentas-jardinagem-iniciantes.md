@@ -18,7 +18,7 @@ faq:
 # Ferramentas Essenciais para Jardinagem: Guia do Iniciante 2026
 
 Começar na jardinagem pode parecer intimidante, mas com as ferramentas certas, você transforma esse hobby em uma atividade prazerosa e produtiva. 
-Aqui vão as **10 ferramentas essenciais** que todo jardineiro iniciante precisa ter, baseado na minha experiência de 15 anos cuidando de jardins.
+Aqui vão as **10 ferramentas essenciais** que todo jardineiro iniciante precisa ter, baseado no que funcionou e no que foi dinheiro jogado fora.
 
 ## 1. Pá de Jardim (A Ferramenta Mais Versátil)
 
@@ -36,7 +36,7 @@ Sem tesoura de poda, suas plantas ficam desleixadas e pouco produtivas. Escolha 
 - **Tesoura bypass:** Para galhos vivos (corte limpo)
 - **Tesoura bigorna:** Para galhos secos (mais força)
 
-**Dica profissional:** Afie as lâminas a cada 6 meses. Tesoura afiada = menos esforço + corte mais preciso.
+**Detalhe que ninguém conta:** Afie as lâminas a cada 6 meses. Tesoura afiada = menos esforço + corte mais preciso.
 
 ## 3. Luva de Jardinagem (Proteção É Fundamental)
 
@@ -56,7 +56,7 @@ O regador é sua ferramenta de conexão diária com o jardim. Dicas:
 
 ## 5. Ancinho (O Organizador do Jardim)
 
-Parece simples, mas o ancinho é essencial para:
+O ancinho serve pra:
 - Nivelar a terra antes de plantar
 - Remover folhas e galhos
 - Espalhar mulch (cobertura protetora)

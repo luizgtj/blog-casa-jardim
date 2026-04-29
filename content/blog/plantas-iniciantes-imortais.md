@@ -12,7 +12,7 @@ faq:
   - question: "Precisa de sol direto?"
     answer: "As plantas desta lista funcionam com luz indireta (perto da janela). Só 2-3 precisam de sol direto, e ainda assim toleram sombra."
   - question: "Com que frequência regar?"
-    answer: "Regra geral: quando o solo estiver seco 2-3cm abaixo da superfície. Para estas plantas, menos é mais - é melhor esquecer de regar do que regar demais."
+    answer: "Quando o solo tá seco 2-3cm abaixo da superfície. Com essas plantas, esquecer de regar é menos problema do que regar demais."
 ---
 
 Comecei matando todas as plantas que tocava. Em 2018, comprei 10 mudas caras - em 3 meses, 9 estavam mortas. Foi quando descobri: não é você que é ruim com plantas, são as plantas que são ruins para iniciantes.
@@ -40,42 +40,42 @@ Esta lista é resultado de testes com 37 iniciantes reais. Todas sobrevivem a:
 ## As 10 Plantas (Ordem de Facilidade)
 
 ### 1. Espada-de-São-Jorge (Sansevieria)
-**Sobrevive a:** Tudo
+**Aguenta** Tudo
 **Cuidados:** Regar a cada 3-4 semanas
 **Luz:** Qualquer (até escritório sem janela)
 **Preço:** R$15-30 (média)
 **Por que é fácil:** Folhas armazenam água. Minha recorde: 8 semanas sem rega, sobreviveu.
 
 ### 2. Zamioculca (ZZ Plant)
-**Sobrevive a:** Escassez de luz e água
+**Tolera** Escassez de luz e água
 **Cuidados:** Regar a cada 2-3 semanas
 **Luz:** Baixa a média
 **Preço:** R$25-40
 **Por que é fácil:** Cresce devagar, não precisa de atenção.
 
 ### 3. Jiboia (Epipremnum aureum)
-**Sobrevive a:** Qualquer coisa menos congelamento
+**Resiste a** Qualquer coisa menos congelamento
 **Cuidados:** Regar quando solo secar
 **Luz:** Qualquer (folhas variam conforme luz)
 **Preço:** R$10-20
 **Por que é fácil:** Cresce rápido, mostra saúde visualmente.
 
 ### 4. Clorofito (Chlorophytum)
-**Sobrevive a:** Erros de rega (tanto excesso quanto falta)
+**Tolera** Erros de rega (tanto excesso quanto falta)
 **Cuidados:** Regar 1x por semana
 **Luz:** Média a alta (indireta)
 **Preço:** R$12-25
 **Por que é fácil:** Produz "filhotes" - sinal de saúde.
 
 ### 5. Peperômia (Peperomia)
-**Sobrevive a:** Umidade variável
+**Aguenta** Umidade variável
 **Cuidados:** Regar quando folhas começam a murchar
 **Luz:** Média
 **Preço:** R$18-35
 **Por que é fácil:** Folhas carnudas armazenam água.
 
 ### 6. Antúrio (Anthurium)
-**Sobrevive a:** Inconstância
+**Sobrevive a** Inconstância
 **Cuidados:** Manter solo levemente úmido
 **Luz:** Média a alta (indireta)
 **Preço:** R$30-50
@@ -161,7 +161,7 @@ Minha jornada de matador de plantas para jardineiro começou com uma Espada-de-S
 - Experiência (aprende sinais)
 - Motivação (crescimento visível)
 
-**Próximo:** Depois de dominar estas, aprenda [como preparar solo perfeito](/blog/preparar-solo-plantio).
+Leia também: Depois de dominar estas, aprenda [como preparar solo perfeito](/blog/preparar-solo-plantio).
 ## Leia também
 
 - [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70

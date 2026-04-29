@@ -147,7 +147,7 @@ Não precisa ser perfeito. Meu primeiro sistema era um balde furado com mangueir
 
 **Passo mais importante:** Começar. Monte o sistema #1 este fim de semana.
 
-**Próximo:** Depois de ter irrigação, aprenda [como fazer compostagem caseira](/blog/compostagem-domestica).
+Leia também: Depois de ter irrigação, aprenda [como fazer compostagem caseira](/blog/compostagem-domestica).
 ## Leia também
 
 - [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo ruim = planta ruim

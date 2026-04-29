@@ -151,7 +151,7 @@ O solo é 80% do sucesso. Os outros 20% são:
 2. Luz suficiente  
 3. Proteção contra pragas
 
-**Próximo passo:** Depois de ter solo pronto, aprenda [como montar sistema de irrigação caseiro](/blog/irrigacao-caseira-simples).
+Leia também: Depois de ter solo pronto, aprenda [como montar sistema de irrigação caseiro](/blog/irrigacao-caseira-simples).
 ## Leia também
 
 - [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70
