@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Guia completo passo a passo para montar um sistema de irrigação automática profissional usando materiais de ferragem. Economize água e tempo."
 category: "Casa & Jardim"
 author: "Luiz Henrique"
-image: "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?w=800&h=450&fit=crop&q=80"
+image: "https://images.unsplash.com/photo-1534529956898-663eb991eae3?w=800&h=450&fit=crop&q=80"
 tags: ["irrigação", "automação", "diy", "economia", "jardinagem"]
 faq:
   - question: "Precisa saber encanamento para fazer?"
