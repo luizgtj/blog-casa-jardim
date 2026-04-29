@@ -1,7 +1,7 @@
 ---
 title: "Plantas para Banheiro Sem Janela: Espécies que Sobrevivem na Sombra Total"
 description: "Descubra quais plantas realmente sobrevivem em banheiros sem luz natural. Guia prático com espécies comprovadas para ambientes úmidos e escuros."
-date: 2026-04-29
+date: "2026-04-29"
 image: "/images/articles/plantas-banheiro-sem-janela.jpg"
 excerpt: "Banheiro sem janela parece ambiente hostil para qualquer ser vivo verde. Mas não é. Existe um grupo seleto de plantas que não só sobrevive como pr"
 category: "Plantas de Interior"
