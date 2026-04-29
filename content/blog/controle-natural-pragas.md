@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Elimine pulgões, cochonilhas e ácaros sem agrotóxicos. Receitas testadas com ingredientes da sua cozinha."
 category: "Plantas"
 author: "Luiz Henrique"
-image: "https://images.unsplash.com/photo-1595429035839-c99c298ffdde?w=800&h=450&fit=crop&q=80"
+image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=800&h=450&fit=crop&q=80"
 tags: ["pragas", "natural", "caseiro", "horta orgânica", "inseticida"]
 faq:
   - question: "É possível controlar pragas sem veneno?"
