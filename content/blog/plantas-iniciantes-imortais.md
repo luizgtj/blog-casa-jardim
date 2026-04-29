@@ -4,7 +4,7 @@ date: "2026-04-28"
 description: "Comece sua jornada na jardinagem com plantas que sobrevivem a qualquer erro. Lista testada com iniciantes reais."
 category: "Plantas"
 author: "Luiz Henrique"
-image: "/images/articles/plantas-iniciantes.jpg"
+image: "/images/articles/plantas-iniciantes-imortais.svg"
 excerpt: "Comecei matando todas as plantas que tocava. Em 2018, comprei 10 mudas caras - em 3 meses, 9 estavam mortas. Foi quando descobri: não é você que é"
 tags: ["iniciantes", "plantas faceis", "apto", "low maintenance"]
 faq:

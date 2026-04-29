@@ -119,11 +119,7 @@ export default async function BlogPost({ params }: Props) {
           </p>
 
           <div className="flex items-center gap-3 border-b border-gray-200 pb-6">
-            <img 
-              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=80&h=80&fit=crop&crop=face" 
-              alt="Foto de Luiz Henrique, autor do blog Jardim Inteligente" 
-              className="h-10 w-10 rounded-full object-cover"
-            />
+            <div className="h-10 w-10 rounded-full bg-emerald-600 flex items-center justify-center text-white font-bold text-sm">LH</div>
             <div>
               <p className="text-sm font-medium text-gray-900">Luiz Henrique</p>
               <p className="text-xs text-gray-500">
@@ -175,11 +171,7 @@ export default async function BlogPost({ params }: Props) {
         {/* Author Bio */}
         <div className="mt-12 border-t border-gray-200 pt-10">
           <div className="flex items-center gap-4">
-            <img 
-              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop&crop=face" 
-              alt="Luiz Henrique" 
-              className="h-14 w-14 rounded-full object-cover ring-2 ring-emerald-100"
-            />
+            <div className="h-14 w-14 rounded-full bg-emerald-600 flex items-center justify-center text-white font-bold ring-2 ring-emerald-100">LH</div>
             <div>
               <p className="font-semibold text-gray-900">Luiz Henrique</p>
               <p className="text-sm text-gray-600">

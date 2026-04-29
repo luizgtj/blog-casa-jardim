@@ -2,7 +2,7 @@
 title: "Compostagem em Apartamento com Balde Fechado: Método Sem Cheiro Passo a Passo"
 description: "Aprenda a fazer compostagem em apartamento usando balde fechado sem gerar odores. Sistema simples para transformar restos de comida em adubo orgânico."
 date: 2026-04-29
-image: "/images/articles/compostagem.jpg"
+image: "/images/articles/compostagem-apartamento-balde-fechado.svg"
 excerpt: "Morar em apartamento não é desculpa para mandar restos de comida para o aterro. Com um simples balde fechado e técnica certa, você transforma casc"
 category: "Compostagem"
 tags: ["compostagem", "apartamento", "balde fechado", "adubo orgânico", "sustentabilidade", "lixo zero", "horta urbana"]
