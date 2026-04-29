@@ -5,6 +5,7 @@ description: "Monte sistema de irrigação automático caseiro com menos de R$10
 category: "Irrigação"
 author: "Luiz Henrique"
 image: "/images/articles/irrigacao-caseira.jpg"
+excerpt: "Regar plantas manualmente todo dia é chato e ineficiente. Em 2019, perdi uma horta inteira durante viagem. Desde então, desenvolvi sistemas caseiros"
 tags: ["irrigação", "diy", "economia", "horta", "automático"]
 faq:
   - question: "Quanto custa montar sistema de irrigação caseiro?"
@@ -147,7 +148,7 @@ Não precisa ser perfeito. Meu primeiro sistema era um balde furado com mangueir
 
 **Passo mais importante:** Começar. Monte o sistema #1 este fim de semana.
 
-Leia também: Depois de ter irrigação, aprenda [como fazer compostagem caseira](/blog/compostagem-domestica).
+Leia também: Depois de ter irrigação, aprenda [como fazer compostagem caseira](/blog/compostagem-apartamento-sem-odor).
 ## Leia também
 
 - [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo ruim = planta ruim

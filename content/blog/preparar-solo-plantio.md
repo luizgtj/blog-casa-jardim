@@ -5,6 +5,7 @@ description: "Aprenda a preparar solo perfeito para plantas. Teste de pH, corre�
 category: "Plantas"
 author: "Luiz Henrique"
 image: "/images/articles/preparar-solo.jpg"
+excerpt: "Preparar solo é como preparar cama para dormir: se a base tá ruim, nada funciona. Já perdi incontáveis mudas por erro no solo. É o método que us"
 tags: ["solo", "plantio", "iniciantes", "horta", "preparação"]
 faq:
   - question: "Como saber se meu solo é bom para plantar?"

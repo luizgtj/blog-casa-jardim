@@ -5,6 +5,7 @@ description: "Guia completo passo a passo para montar um sistema de irrigação 
 category: "Casa & Jardim"
 author: "Luiz Henrique"
 image: "/images/articles/irrigacao.jpg"
+excerpt: "Cansado de acordar cedo para regar plantas? Ou pior: esquecer de regar e perder suas mudas? Depois de testar 5 sistemas diferentes (e gastar R$ 800 no"
 tags: ["irrigação", "automação", "diy", "economia", "jardinagem"]
 faq:
   - question: "Precisa saber encanamento para fazer?"

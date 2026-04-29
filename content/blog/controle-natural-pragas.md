@@ -5,6 +5,7 @@ description: "Elimine pulgões, cochonilhas e ácaros sem agrotóxicos. Receitas
 category: "Plantas"
 author: "Luiz Henrique"
 image: "/images/articles/controle-pragas.jpg"
+excerpt: "Em 2020, quase perdi 30 pés de tomate para pulgões. Usei veneno, matei as pragas e também os polinizadores. Sem abelhas, sem tomates. Foi quando de"
 tags: ["pragas", "natural", "caseiro", "horta orgânica", "inseticida"]
 faq:
   - question: "É possível controlar pragas sem veneno?"
@@ -270,7 +271,7 @@ Mas os benefícios valem:
 
 **Comece com:** Sabão de potássio (R$2) + observação diária.
 
-Leia também: Aprenda [como fazer compostagem doméstica](/blog/compostagem-domestica) para plantas ainda mais resistentes.
+Leia também: Aprenda [como fazer compostagem doméstica](/blog/compostagem-apartamento-sem-odor) para plantas ainda mais resistentes.
 ## Leia também
 
 - [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70

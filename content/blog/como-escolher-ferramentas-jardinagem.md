@@ -5,6 +5,7 @@ description: "Aprenda a escolher ferramentas de jardinagem que duram anos. Anál
 category: "Ferramentas"
 author: "Luiz Henrique"
 image: "/images/articles/escolher-ferramentas.jpg"
+excerpt: "Depois de testar dezenas de ferramentas ao longo dos anos, sei exatamente quais valem o dinheiro e quais são engodo. Comprei ferramentas que viraram "
 tags: ["ferramentas", "iniciantes", "guia", "compras"]
 faq:
   - question: "Qual a ferramenta mais importante para começar?"

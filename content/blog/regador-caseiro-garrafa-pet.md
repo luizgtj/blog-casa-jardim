@@ -3,6 +3,7 @@ title: "Como Fazer Regador Caseiro com Garrafa PET: Guia Passo a Passo"
 description: "Aprenda a criar um regador sustentável e econômico com garrafa PET para suas plantas em apartamento. Método simples e eficaz para irrigação manual."
 date: 2026-04-29
 image: "/images/articles/irrigacao-caseira.jpg"
+excerpt: "Não precisa gastar dinheiro com regador caro de loja. Com uma garrafa PET que iria para o lixo, você cria um regador funcional, sustentável e que d"
 category: "DIY Jardinagem"
 tags: ["regador caseiro", "garrafa PET", "jardinagem sustentável", "DIY", "jardinagem urbana", "economia", "reciclagem"]
 author: "Jardim Inteligente"

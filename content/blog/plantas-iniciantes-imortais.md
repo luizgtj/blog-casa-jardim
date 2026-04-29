@@ -5,6 +5,7 @@ description: "Comece sua jornada na jardinagem com plantas que sobrevivem a qual
 category: "Plantas"
 author: "Luiz Henrique"
 image: "/images/articles/plantas-iniciantes.jpg"
+excerpt: "Comecei matando todas as plantas que tocava. Em 2018, comprei 10 mudas caras - em 3 meses, 9 estavam mortas. Foi quando descobri: não é você que é"
 tags: ["iniciantes", "plantas faceis", "apto", "low maintenance"]
 faq:
   - question: "Qual a planta mais fácil para quem nunca cuidou de nada?"
