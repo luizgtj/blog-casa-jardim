@@ -188,19 +188,8 @@ export default async function BlogPost({ params }: Props) {
           </div>
         </div>
 
-        {/* Related Posts CTA */}
-        <div className="mt-12 border-t border-gray-200 pt-10 text-center">
-          <p className="text-gray-500 mb-4">Continue lendo</p>
-          <Link 
-            href="/blog"
-            className="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-6 py-3 text-sm font-semibold text-white hover:bg-emerald-700 transition-colors"
-          >
-            Ver todos os artigos
-            <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
-            </svg>
-          </Link>
-        </div>
+        {/* Related Posts */}
+        <RelatedPosts currentSlug={slug} />
       </article>
     </div>
   )
