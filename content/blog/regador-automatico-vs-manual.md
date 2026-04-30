@@ -33,19 +33,11 @@ Aqui está a análise completa para você decidir sem arrependimentos.
 
 ## Os Dois Mundos (Definições Claras)
 
-### Regador Manual
-**O que é:** Você, com algum recipiente (balde, regador, garrafa), regando cada planta individualmente.
-**Custo inicial:** R$ 0-50 (DIY ou comprado básico).
-**Tempo diário:** 5-20 minutos conforme quantidade de plantas.
-**Controle:** Total – você vê, sente e decide na hora.
+O regador manual é basicamente você com algum recipiente – seja balde, regador ou garrafa – regando cada planta individualmente. Seu custo inicial varia de R$ 0 a R$ 50, dependendo se você opta por uma solução DIY ou compra algo básico. Em termos de tempo diário, dedica de 5 a 20 minutos conforme a quantidade de plantas. O controle é total: você vê, sente e decide na hora.
 
-### Regador Automático
-**O que é:** Sistema com timer, mangueiras e gotejadores que rega sozinho conforme programação.
-**Custo inicial:** R$ 150-500+ (kit básico a avançado).
-**Tempo diário:** 0 minutos (após configuração).
-**Controle:** Programado – você define e confia (ou monitora).
+Já o regador automático é um sistema composto por timer, mangueiras e gotejadores que rega sozinho conforme uma programação pré-definida. Seu custo inicial fica entre R$ 150 e R$ 500+ para kits que vão do básico ao avançado. Após a configuração, o tempo diário dedicado é zero minutos. O controle é programado: você define as regras e confia no sistema (ou monitora de vez em quando).
 
-Parece óbvia vantagem do automático? Nem sempre. Vamos aos detalhes.
+À primeira vista, a vantagem do automático parece óbvia, mas a realidade nem sempre segue essa lógica.
 
 ## Custo Real Total (Não Só Inicial)
 
@@ -129,18 +121,13 @@ Existe a opção de criar um sistema automático DIY mais barato usando garrafas
 
 ## Conclusão: Não Há Resposta Universal
 
-A escolha entre regador automático e manual depende de você, não de qual é "melhor" em teoria.
+A escolha entre regador automático e manual não tem uma resposta universal – ela depende das suas necessidades específicas, não de qual sistema é "melhor" em teoria.
 
-**Faça este teste rápido:**
-1. Quantas vezes por mês você esquece ou pula a rega?
-2. Quantas plantas quase morreram por falta de água no último ano?
-3. Com que frequência viaja (ou tem dias fora de casa 12h+)?
-4. Quanto valoriza 5-15 minutos diários?
-5. Tem paciência para aprender e manter sistema técnico?
+Para tomar uma decisão mais clara, faça um teste rápido respondendo algumas perguntas simples. Quantas vezes por mês você costuma esquecer ou pular a rega? Quantas plantas quase morreram por falta de água no último ano? Com que frequência você viaja ou fica mais de 12 horas fora de casa? Quanto você realmente valoriza aqueles 5 a 15 minutos diários dedicados à rega? E tem paciência para aprender e manter um sistema técnico?
 
-Se respostas 1-3 são "várias vezes", considere automático. Se 4-5 são "pouco" e "não", fique no manual.
+Se as respostas para as três primeiras perguntas são "várias vezes", vale considerar o automático. Se para as duas últimas são "pouco" e "não", o manual provavelmente atende melhor suas necessidades.
 
-O importante é que suas plantas sobrevivam e você não vire escravo delas. Qualquer sistema que equilibre isso está certo – seja qual for.
+No fim das contas, o importante é garantir que suas plantas sobrevivam saudáveis sem que você se torne escravo delas. Qualquer sistema que consiga equilibrar esses dois pontos está certo – seja ele qual for.
 
 ---
 
