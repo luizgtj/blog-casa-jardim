@@ -19,8 +19,6 @@ faq:
     answer: "Sim, mas deve esterilizá-la antes para eliminar pragas. Coloque em um saco preto ao sol por 3 dias ou asse no forno a 180°C por 30 minutos."
 ---
 
-![Terra para vasos caseira](/images/articles/terra-para-vasos-caseira.jpg)
-
 ## Por Que Vale a Pena Fazer sua Própria Terra
 
 Comprar substrato mês após mês sai caro. Um saco de terra pronta de 10 litros custa entre R$15 e R$30. A boa notícia é que você mesmo pode fazer terra para vasos em casa com ingredientes simples e baratos.
