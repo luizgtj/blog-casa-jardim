@@ -5,12 +5,12 @@ export const metadata = {
   title: 'Jardim Inteligente - Guias Práticos de Jardinagem DIY',
   description: 'Guias práticos de jardinagem DIY. Tudo testado, nada de teoria. Ferramentas, irrigação, plantas e muito mais.',
   alternates: {
-    canonical: 'https://blog-casa-jardim-z6tt2.vercel.app',
+    canonical: 'https://jardim-inteligente.vercel.app',
   },
   openGraph: {
     title: 'Jardim Inteligente - Guias Práticos de Jardinagem DIY',
     description: 'Guias práticos de jardinagem DIY. Tudo testado, nada de teoria.',
-    url: 'https://blog-casa-jardim-z6tt2.vercel.app',
+    url: 'https://jardim-inteligente.vercel.app',
     siteName: 'Jardim Inteligente',
     locale: 'pt_BR',
     type: 'website',
@@ -29,7 +29,7 @@ export default async function BlogPage({ searchParams }: { searchParams: Promise
       'ferramentas': ['Ferramentas'],
       'irrigacao': ['Irrigação'],
       'plantas': ['Plantas'],
-      'diy': ['DIY', 'Casa & Jardim'],
+      'diy': ['DIY', 'Jardinagem'],
     }
     const categories = catMap[catSlug] || [catSlug]
     posts = allPosts.filter(p => categories.some(c => p.category?.toLowerCase().includes(c.toLowerCase())))

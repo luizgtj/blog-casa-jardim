@@ -2,7 +2,7 @@
 title: "Irrigação Automática Caseira: Monte o Seu Sistema por Menos de R$ 200"
 date: "2026-04-28"
 description: "Guia completo passo a passo para montar um sistema de irrigação automática profissional usando materiais de ferragem. Economize água e tempo."
-category: "Casa & Jardim"
+category: "Jardinagem"
 author: "Luiz Henrique"
 image: "/images/articles/irrigacao-automatica-caseira.jpg"
 excerpt: "Cansado de acordar cedo para regar plantas? Ou pior: esquecer de regar e perder suas mudas? Depois de testar 5 sistemas diferentes (e gastar R$ 800 no"

@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://blog-casa-jardim-z6tt2.vercel.app',
+  siteUrl: 'https://jardim-inteligente.vercel.app',
   generateRobotsTxt: false, // já temos manual
   changefreq: 'weekly',
   priority: 0.7,

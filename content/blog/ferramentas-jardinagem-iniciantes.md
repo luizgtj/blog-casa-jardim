@@ -2,8 +2,8 @@
 title: "Ferramentas Essenciais para Jardinagem: Guia do Iniciante 2026"
 date: "2026-04-28"
 description: "Descubra as 10 ferramentas essenciais que todo jardineiro iniciante precisa ter. Guia completo com recomendações e dicas práticas."
-category: "Casa & Jardim"
-author: "Carlos Mendes"
+category: "Jardinagem"
+author: "Luiz Henrique"
 image: "/images/articles/ferramentas-jardinagem-iniciantes.jpg"
 excerpt: "Começar na jardinagem pode parecer intimidante, mas com as ferramentas certas, você transforma esse hobby em uma atividade prazerosa e produtiva. "
 tags: ["jardinagem", "ferramentas", "iniciantes", "diy"]
@@ -148,7 +148,7 @@ Lembre-se: **O melhor jardineiro não é quem tem mais ferramentas, mas quem sab
 
 ---
 
-*Carlos Mendes é jardineiro profissional há 15 anos e autor do blog "Casa & Jardim Ferramentas". Já ajudou mais de 2.000 famílias a criar seus primeiros jardins.*
+*Luiz Henrique é jardineiro profissional há 15 anos e autor do blog "Jardinagem Ferramentas". Já ajudou mais de 2.000 famílias a criar seus primeiros jardins.*
 ## Leia também
 
 - [Sistema de Irrigação Caseiro](/blog/irrigacao-caseira-simples) — Monte em 1h por R$70

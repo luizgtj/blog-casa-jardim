@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://blog-casa-jardim-z6tt2.vercel.app',
+    url: 'https://jardim-inteligente.vercel.app',
     title: 'Jardim Inteligente - Guias Práticos de Jardinagem DIY',
     description: 'Guias práticos de jardinagem DIY testados na prática.',
     siteName: 'Jardim Inteligente',

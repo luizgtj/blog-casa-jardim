@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       tags: post.tags,
     },
     alternates: {
-      canonical: `https://blog-casa-jardim-z6tt2.vercel.app/blog/${slug}`,
+      canonical: `https://jardim-inteligente.vercel.app/blog/${slug}`,
     },
   }
 }
@@ -67,12 +67,12 @@ export default async function BlogPost({ params }: Props) {
               name: 'Jardim Inteligente',
               logo: {
                 '@type': 'ImageObject',
-                url: 'https://blog-casa-jardim-z6tt2.vercel.app/logo.svg',
+                url: 'https://jardim-inteligente.vercel.app/logo.svg',
               },
             },
             mainEntityOfPage: {
               '@type': 'WebPage',
-              '@id': `https://blog-casa-jardim-z6tt2.vercel.app/blog/${slug}`,
+              '@id': `https://jardim-inteligente.vercel.app/blog/${slug}`,
             },
             ...(post.faq && post.faq.length > 0 ? {
               hasPart: {
