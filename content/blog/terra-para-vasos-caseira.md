@@ -3,6 +3,7 @@ title: "Como Fazer Terra para Vasos Caseira: Receita Fácil e Barata"
 date: "2026-04-30"
 description: "Aprenda a fazer sua própria terra para vasos caseira com ingredientes simples e baratos. Receita passo a passo para plantas mais saudáveis e economia no jardim."
 category: "solo e substratos"
+image: "/images/articles/terra-para-vasos-caseira.jpg"
 tags:
   - terra para vasos
   - substrato caseiro
