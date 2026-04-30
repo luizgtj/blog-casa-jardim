@@ -1,7 +1,7 @@
 ---
 title: "Adubo Líquido Caseiro com Borra de Café para Ervas Aromáticas"
 description: "Aprenda a transformar borra de café em adubo líquido potente para manjericão, hortelã, alecrim e outras ervas aromáticas. Método simples e eficaz."
-date: "2026-04-29"
+date: "2026-04-24"
 image: "/images/articles/adubo-liquido-cafe-ervas-aromaticas.jpg"
 excerpt: "Joga fora a borra de café depois do cafezinho? Pare agora. Aquele resíduo escuro que vai para o lixo é ouro puro para suas ervas aromáticas."
 category: "Adubação Orgânica"

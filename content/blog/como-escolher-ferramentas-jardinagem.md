@@ -1,6 +1,6 @@
 ---
 title: "Como Escolher as Ferramentas Certas de Jardinagem: Guia Completo"
-date: "2026-04-28"
+date: "2026-04-22"
 description: "Aprenda a escolher ferramentas de jardinagem que duram anos. Análise de materiais, marcas confiáveis e dicas para iniciantes."
 category: "Ferramentas"
 author: "Luiz Henrique"
