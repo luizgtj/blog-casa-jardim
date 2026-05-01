@@ -1,7 +1,7 @@
 ---
 title: "Sistema de Irrigação Caseiro Simples: Faça Você Mesmo em 1h"
 date: "2026-04-24"
-description: "Monte sistema de irrigação automático caseiro com menos de R$100. Ideal para hortas, vasos e jardins pequenos."
+description: "Monte sistema de irrigação automático caseiro com menos de R$100 em 1 hora. Ideal para hortas, vasos e jardins pequenos. Guia passo a passo com 3 opções."
 category: "Irrigação"
 author: "Luiz Henrique"
 image: "/images/articles/irrigacao-caseira-simples.jpg"
@@ -14,6 +14,14 @@ faq:
     answer: "Não. Sistemas por gravidade (reservatório alto) ou temporizador mecânico funcionam sem eletricidade. Timers digitais precisam de pilhas."
   - question: "Funciona para apartamento?"
     answer: "Sim! Para vasos, use sistema por gotejamento com garrafa PET ou kit micro-irrigação (R$30-50)."
+  - question: "Qual sistema escolher para iniciantes?"
+    answer: "Comece com Sistema #1 (básico por gravidade - R$70) para entender os princípios. É simples, barato e não precisa de eletricidade."
+  - question: "Como dimensionar o sistema para meu jardim?"
+    answer: "Calcule 1 gotejador por planta médio-grande ou 2-3 vasos pequenos. Para horta de 10m², use 10-15 gotejadores com mangueira de 10-15 metros."
+  - question: "Qual a durabilidade dos materiais?"
+    answer: "Mangueira e conectores duram 2-3 anos ao sol. Gotejadores duram 1-2 anos. Timer mecânico dura 1-2 anos, digital 3-5 anos com troca de pilhas."
+  - question: "Como evitar entupimento dos gotejadores?"
+    answer: "Use filtro de linha (R$5-10) na saída do reservatório. Limpe os gotejadores mensalmente com água corrente. Use água filtrada ou deixe água da torneira descansar 24h antes."
 ---
 
 Regar plantas manualmente todo dia é chato e ineficiente. Em 2019, perdi uma horta inteira durante viagem. Desde então, desenvolvi sistemas caseiros que qualquer um monta.
@@ -83,7 +91,14 @@ Não precisa ser perfeito. Meu primeiro sistema era um balde furado com mangueir
 O passo mais importante é começar. Monte o sistema #1 este fim de semana.
 
 Depois de ter a irrigação funcionando, você pode aprender como fazer compostagem caseira no artigo sobre [compostagem sem odor](/blog/compostagem-apartamento-sem-odor).
-## Leia também
+## Irrigação: Guias Relacionados
 
-- [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo ruim = planta ruim
-- [10 Plantas para Iniciantes](/blog/plantas-iniciantes-imortais) — Quase impossível matar
+**Para mais opções de sistemas:**
+- [Irrigação Automática Caseira: Timer Digital + App](/blog/irrigacao-automatica-caseira) — Controle pelo celular
+- [Regador Automático vs Manual: Qual Vale Mais a Pena?](/blog/regador-automatico-vs-manual) — Análise de custo-benefício
+- [Regador Caseiro com Garrafa PET: Passo a Passo Visual](/blog/regador-caseiro-garrafa-pet) — Sistema ultra-econômico
+
+**Para complementar seu jardim:**
+- [Como Preparar Solo para Plantio](/blog/preparar-solo-plantio) — Solo saudável = plantas saudáveis
+- [10 Plantas para Iniciantes: Quase Impossível Matar](/blog/plantas-iniciantes-imortais) — Comece com plantas resistentes
+- [Jardinagem Urbana para Iniciantes: Guia Completo](/blog/jardinagem-urbana-iniciantes-guia-completo) — Do zero ao jardim produtivo
