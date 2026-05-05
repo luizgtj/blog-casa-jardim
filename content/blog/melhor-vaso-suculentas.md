@@ -111,9 +111,9 @@ Não importa se o vaso é de ouro maciço — se não tiver boa drenagem, não s
 
 **Furos no fundo:** Pelo menos um furo de 0,5 a 1 cm de diâmetro. Múltiplos furos pequenos são ainda melhores. Se o vaso não tiver furos, você pode fazer com uma furadeira (para cerâmica/barro) ou um prego quente (para plástico).
 
-**Camada de drenagem:** No fundo do vaso, coloque uma camada de 2 a 3 cm de argila expandida, pedrisco ou cascalho. Isso impede que os furos sejam bloqueados pela terra e melhora a aeração. Para uma solução mais completa de drenagem, aprenda como montar um [sistema de irrigação caseiro simples](/blog/irrigacao-caseira-simples/).
+**Camada de drenagem:** No fundo do vaso, coloque uma camada de 2 a 3 cm de argila expandida, pedrisco ou cascalho. Isso impede que os furos sejam bloqueados pela terra e melhora a aeração. Para uma solução mais completa de drenagem, aprenda como montar um [sistema de irrigação caseiro simples](/blog/irrigacao-caseira-simples).
 
-**Solo específico:** Use substrato próprio para cactos e suculentas, que tem mais areia e pedrisco que o solo comum. Ele drena melhor e evita compactação. Se você está preparando o solo pela primeira vez, confira nosso guia sobre [como preparar solo para plantio](/blog/preparar-solo-plantio/). Se prefere uma alternativa caseira, temos um artigo sobre [terra para vasos caseira](/blog/terra-para-vasos-caseira/) que você pode adaptar para suculentas.
+**Solo específico:** Use substrato próprio para cactos e suculentas, que tem mais areia e pedrisco que o solo comum. Ele drena melhor e evita compactação. Se você está preparando o solo pela primeira vez, confira nosso guia sobre [como preparar solo para plantio](/blog/preparar-solo-plantio). Se prefere uma alternativa caseira, temos um artigo sobre [terra para vasos caseira](/blog/terra-para-vasos-caseira) que você pode adaptar para suculentas.
 
 ## 4 Vasos para Evitar a Todo Custo
 
