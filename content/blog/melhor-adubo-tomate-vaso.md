@@ -2,6 +2,7 @@
 title: "Melhor Adubo para Tomate em Vaso no Apartamento: Guia Prático"
 date: "2026-05-01"
 description: "Descubra os melhores adubos para cultivar tomates suculentos em vaso no apartamento. Comparação orgânico vs mineral vs caseiro + passo a passo de aplicação."
+excerpt: "Plantou tomates no apartamento e agora estão mirrados com folhas amareladas? Não é falta de dedo verde, é falta do adubo certo. Descubra como nutrir seus tomates como um profissional."
 author: "ana-costa"
 image: "/images/articles/melhor-adubo-tomate-vaso.jpg"
 tags: ["tomate", "adubo", "vaso", "apartamento", "horta urbana", "cultivo", "adubação orgânica", "jardinagem"]

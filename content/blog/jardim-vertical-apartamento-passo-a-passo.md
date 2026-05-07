@@ -2,6 +2,7 @@
 title: "Como Fazer Jardim Vertical em Apartamento: Guia Passo a Passo"
 date: "2026-05-04"
 description: "Aprenda a criar um jardim vertical em apartamento pequeno com materiais acessíveis. Transforme sua varanda em um oásis verde mesmo com pouco espaço."
+excerpt: "Morar em apartamento pequeno com varanda minúscula às vezes parece impossível para quem ama plantas. Mas a jardinagem vertical virou esse jogo do avesso, usando paredes vazias para criar um oásis verde."
 category: "Jardinagem Urbana"
 tags: ["jardim vertical", "apartamento pequeno", "horta vertical", "jardinagem urbana", "DIY", "varanda verde"]
 image: "/images/articles/jardim-vertical-apartamento.jpg"

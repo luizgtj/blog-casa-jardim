@@ -2,6 +2,7 @@
 title: "Melhor Vaso para Suculentas: Como Escolher em 2026"
 date: "2026-05-05"
 description: "Descubra como escolher o melhor vaso para suas suculentas em 2026. Guia prático com materiais, tamanhos e dicas para plantas saudáveis em apartamento."
+excerpt: "Escolher o vaso errado pode matar suas suculentas mais rápido do que a falta de água. Descubra os segredos dos materiais, tamanhos e sistemas de drenagem que mantêm suas plantas saudáveis."
 category: "Cuidados"
 image: "/images/articles/melhor-vaso-suculentas.jpg"
 tags: ["suculentas", "vasos", "jardinagem urbana", "apartamento", "drenagem", "terracota", "cerâmica", "plástico"]

@@ -2,6 +2,7 @@
 title: "Como cultivar ervas aromáticas em apartamentos com pouco sol: guia passo a passo"
 date: "2026-05-03"
 description: "Descubra como ter ervas frescas mesmo em apartamentos com pouca luz solar. Guia prático para hortas urbanas em espaços reduzidos."
+excerpt: "Morar em apartamento não precisa significar abrir mão do prazer de colher suas próprias ervas aromáticas frescas. Mesmo com janelas que recebem pouca luz solar direta, é possível manter uma horta produtiva dentro de casa."
 image: "/images/articles/ervas-aromaticas-apartamento-pouco-sol.jpg"
 category: "jardinagem urbana"
 tags: ["ervas aromáticas", "apartamento", "pouco sol", "horta urbana", "cultivo indoor", "plantas de interior"]
